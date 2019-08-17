@@ -1,3 +1,6 @@
+## Install github on your laptop/PC 
+https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-mac-md
+
 ## Here is a webpage listing useful github commands.
 https://github.com/joshnh/Git-Commands
 
