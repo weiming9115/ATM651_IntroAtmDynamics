@@ -1,5 +1,7 @@
 # Unit 1: Terminology
 ### But terminology is everything
+#### The test will be based on this growing table. 
+##### Sadly, math is hard to include in GitHub... may decide on another format. 
 
 ------------------------
 | Word | Meaning | Math | More |
