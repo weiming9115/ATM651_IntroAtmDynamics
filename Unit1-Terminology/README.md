@@ -1,5 +1,5 @@
 # Unit 1: Terminology
-### But terminology is everything (math, etc)
+### But terminology is everything
 
 ------------------------
 | Word | Meaning | Math | More |
