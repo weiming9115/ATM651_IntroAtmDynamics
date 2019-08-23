@@ -20,6 +20,8 @@
 |Pascals|as a flux| units tell the story | UNITS! |
 |Pascals|related to force| units tell the story | UNITS! |
 
+scalar field, vector field
+
 
 ### Lecture 2
 ------------------------
