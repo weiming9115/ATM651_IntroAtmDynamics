@@ -1,15 +1,14 @@
 # Unit 1: Terminology
 
 ### Classes of mathematical objects we will use 
-
 ------------------------
-|| 0D | 1D | 2D | 3D | 4D |
-|0D|---|---|---|---|---|---|
-|1D|---|---|---|---|---|---|
-|2D|---|---|---|---|---|---|
-|3D|---|---|---|---|---|---|
-|ND|---|---|---|---|---|---|
-
+|  | 0D domain | 1D | 2D | 3D | 4D |
+|---|---|---|---|---|---|
+|0D range |const|const line|const map|const(3D)|time independent const(3D)|
+|1D  || curve | scalar field map|scalar field 3D| evolving 3D field|
+|2D  ||||||
+|3D  ||||||
+|4D  ||||||
 
 
 ### Pure math concepts 
