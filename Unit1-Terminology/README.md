@@ -5,7 +5,7 @@
 |  | 0D domain | 1D | 2D | 3D | 4D |
 |---|---|---|---|---|---|
 |0D range |a number|const line|const map|const(3D)|time independent const(3D)|
-|1D  |a random variable| curve | scalar field 2D map| 3D scalar field | evolving 3D field|
+|1D  |a random variable (PDF)| curve | scalar field 2D map| 3D scalar field | evolving 3D field|
 |2D  |a 2D vector|2D vectors along a line|2D flow: **kinematics**|hor. vectors in 3D|evolving hor. vectors in 3D|
 |3D  |a 3D vector|3D vectors along a line|a plane of 3D vectors| **3D flow** | evolving 3D flow|
 |ND  |a ND vector|matrix algebra|arrays|arrays|abstract phase spaces|
