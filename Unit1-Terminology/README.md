@@ -16,7 +16,7 @@
 | Word | Meaning | Math notation(s) | Conceptual Sketch |
 |---|---|---|---|
 |Function, argument, value, domain, range ||||
-|First derivative|slope, gradient, tendency, velocity for pos(t)||rate of change wrt. domain variable|
+|First derivative|slope, gradient, tendency, velocity for pos(t)|study https://en.wikipedia.org/wiki/Notation_for_differentiation |rate of change wrt. domain variable|
 |Integral|cumulative sum|(plus arbitrary constant of integration)|CDF from PDF|
 |Second derivative |curvature, Laplacian, acceleration for pos(t)|*-Σ k<sub>i</sub><sup>2</sup> sin(k<sub>i</sub> x)* for *Σ sin(<sub>i</sub>x)*|emphasizes small scales; edge finder in imagery|
 |Inverse Laplacian, informally ∇<sup>-2</sup>|cumulative cumulative sum|*-Σ k<sub>i</sub><sup>-2</sup> sin(k<sub>i</sub>x)* for *Σ sin(k<sub>i</sub> x)*|smoothed, emphasizes largest scales. Two constants of integration|
