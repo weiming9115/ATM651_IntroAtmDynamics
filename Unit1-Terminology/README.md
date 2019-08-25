@@ -5,10 +5,10 @@
 |  | 0D domain | 1D | 2D | 3D | 4D |
 |---|---|---|---|---|---|
 |0D range |const|const line|const map|const(3D)|time independent const(3D)|
-|1D  || curve | scalar field map|scalar field 3D| evolving 3D field|
-|2D  ||||||
-|3D  ||||||
-|4D  ||||||
+|1D  |random variable| curve | scalar field 2D map| 3D scalar field | evolving 3D field|
+|2D  |2D vector|2D vectors along a line|2D flow: **kinematics**|hor. vectors in 3D|evolving hor. vectors in 3D|
+|3D  |3D vector|3D vectors along a line|a plane of 3D vectors| **3D flow** | evolving 3D flow|
+|ND  |ND vector|matrix algebra|big|big|abstract phase spaces|
 
 
 ### Pure math concepts 
