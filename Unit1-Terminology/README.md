@@ -16,9 +16,11 @@
 | Word | Meaning | Math notation(s) | Conceptual Sketch |
 |---|---|---|---|
 |Function, argument, value, domain, range ||||
-|First derivative ||||
-|Function, argument, value, domain, range ||||
-|Function, argument, value, domain, range ||||
+|First derivative|slope, gradient, tendency, velocity for pos(t)||rate of change wrt. domain variable|
+|Integral|cumulative sum|(plus arbitrary constant of integration)|CDF from PDF|
+|Second derivative |curvature, Laplacian, acceleration for pos(t)|*-Σ k_i^2 sin(k_i x)* for *Σ sin(kx)*|emphasizes small scales; edge finder in imagery|
+|Inverse Laplacian |cumulative cumulative sum|*-Σ k_i^-2 sin(kx)* for *Σ sin(k_i x)*|smoothed, emphasizes largest scales|
+|Mixed second derivative |saddle points, ...|||
 
 ### Physical measures and SI units (Mapes book Ch. 1) 
 ------------------------
