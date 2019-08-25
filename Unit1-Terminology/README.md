@@ -1,4 +1,8 @@
-# Unit 1: Terminology
+# Unit 1: Terminology and Basics
+## Assignment for Sept. 3, 2019:
+#### Read, and write answers to all problems in, [Mapes Ch. 1](https://github.com/brianmapes/ConvectionShortCourse) 
+#### Read, and know all problems in, Wallace & Hobbs Ch. 1 (oral in class)
+#### More problems in [HW1] document 
 
 ### Classes of mathematical objects we will use 
 ------------------------
