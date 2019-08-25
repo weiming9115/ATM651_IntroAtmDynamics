@@ -1,11 +1,29 @@
 # Unit 1: Terminology
-### But terminology is everything
-#### The test will be based on this growing table. 
-##### Sadly, math is hard to include in GitHub. We may decide on another format. Ideas?
 
-### Lecture 1 
+### Classes of mathematical objects we will use 
+
 ------------------------
-| Word | Meaning | Math | More |
+|| 0D | 1D | 2D | 3D | 4D |
+|0D|---|---|---|---|---|---|
+|1D|---|---|---|---|---|---|
+|2D|---|---|---|---|---|---|
+|3D|---|---|---|---|---|---|
+|ND|---|---|---|---|---|---|
+
+
+
+### Pure math concepts 
+------------------------
+| Word | Meaning | Math notation(s) | Conceptual Sketch |
+|---|---|---|---|
+|Function, argument, value, domain, range ||||
+|First derivative ||||
+|Function, argument, value, domain, range ||||
+|Function, argument, value, domain, range ||||
+
+### Physical measures and SI units (Mapes book Ch. 1) 
+------------------------
+| Word | Meaning | Math | Concept Sketch |
 |---|---|---|---|
 |meter|human-sized unit of measure of space|1e-7 **Earth**'s equator-pole distance||
 |kilogram|human-sized unit of measure of mass|1e-3 mass of 1 m^3 of **water**||
@@ -20,11 +38,16 @@
 |Pascals|as a flux| units tell the story | UNITS! |
 |Pascals|related to force| units tell the story | UNITS! |
 
-scalar field, vector field
-
-
-### Lecture 2
+### Physical processes and relations
 ------------------------
-| Word | Meaning | Math | More |
+| Word | Meaning | Math | Concept Sketch |
 |---|---|---|---|
+|Flux|x|x|x|
+|Net flux (or flux *convergence* |x|x|x|
+|Time rate of change |x|x|x|
+|Sources and sinks |x|x|x|
 |Conservation|x|x|x|
+|Advection|x|x|x|
+|Diffusion|x|x|x|
+|Balance|x|x|x|
+
