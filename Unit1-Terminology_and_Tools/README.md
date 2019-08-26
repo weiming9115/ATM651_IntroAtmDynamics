@@ -39,20 +39,20 @@
 |flux|amount of xxx passing through a square meter per second| units tell the story| UNITS! |
 |flow (of a river)|amount of water passing per second| how related to flux?| UNITS! |
 |Vertically integrated flux|like an *atmospheric river* | units tell the story | UNITS! |
-|Newtons|| units tell the story | UNITS! |
-|Pascals|as a flux| units tell the story | UNITS! |
-|Pascals|related to force| units tell the story | UNITS! |
+|force || " | Newtons |
+|pressure |as a flux| " | Pascals |
+|pressure |related to force| " | Pascals |
 
 ### Physical processes and relations
 ------------------------
 | Word | Meaning | Math | Concept Sketch |
 |---|---|---|---|
 |Flux|x|x|x|
-|Net flux (or flux *convergence* |x|x|x|
-|Time rate of change |x|x|x|
-|Sources and sinks |x|x|x|
-|Conservation|x|x|x|
-|Advection|x|x|x|
-|Diffusion|x|x|x|
-|Balance|x|x|x|
+|Net flux (or flux *convergence* ||||
+|Time rate of change ||||
+|Sources and sinks ||||
+|Conservation ||||
+|Advection ||||
+|Diffusion ||||
+|Balance ||||
 
