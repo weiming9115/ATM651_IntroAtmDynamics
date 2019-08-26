@@ -48,7 +48,7 @@
 | Word | Meaning | Math | Concept Sketch |
 |---|---|---|---|
 |Flux|x|x|x|
-|Net flux (or flux *convergence* ||||
+|Net flux into a region (flux *convergence*) ||||
 |Time rate of change ||||
 |Sources and sinks ||||
 |Conservation ||||
