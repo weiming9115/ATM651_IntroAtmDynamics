@@ -1,8 +1,8 @@
 # Unit 1: Terminology and Basics
 ## Assignment for Sept. 3, 2019:
-#### Read, and write answers to all problems in, [Mapes Ch. 1](https://github.com/brianmapes/ConvectionShortCourse) 
+#### Read, and write answers to all problems in, [Mapes Ch. 1](https://github.com/brianmapes/ConvectionShortCourse/blob/master/BookDraft_PDFs_2019_July/Chapter1_StuffInSpace.pdf) 
 #### Read, and know all problems in, Wallace & Hobbs Ch. 1 (oral in class)
-#### More problems in [HW1] document 
+#### More problems in [HW0 document](https://github.com/ATMOcanes/ATM651_IntroAtmDynamics/blob/master/Unit1-Terminology_and_Tools/HW/Homework0.pdf) 
 
 ### Classes of mathematical objects we will use 
 ------------------------
