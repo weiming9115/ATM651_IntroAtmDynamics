@@ -1,5 +1,5 @@
 # Unit 1: Terminology and Basics
-## Assignment, for Sept. 3, 2019:
+## Assignment, for Sept. 4, 2019:
 #### Math review problems in [HW0 document](https://github.com/ATMOcanes/ATM651_IntroAtmDynamics/blob/master/Unit1-Terminology_and_Tools/HW/Homework0.pdf) 
 #### Read, and write answers to all problems in, [Mapes Ch. 1](https://github.com/brianmapes/ConvectionShortCourse/blob/master/BookDraft_PDFs_2019_July/Chapter1_StuffInSpace.pdf) 
 #### Read, and know all problems in, Wallace & Hobbs Ch. 1 (oral in class)
@@ -48,7 +48,7 @@
 | Word | Meaning | Math | Concept Sketch |
 |---|---|---|---|
 |Flux|x|x|x|
-|Net flux (or flux *convergence* ||||
+|Net flux into a region (flux *convergence*) ||||
 |Time rate of change ||||
 |Sources and sinks ||||
 |Conservation ||||
