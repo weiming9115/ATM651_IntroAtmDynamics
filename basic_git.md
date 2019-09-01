@@ -11,5 +11,8 @@ Some commands you'll need during uploading and downloading files <br>
 `git pull`<br>
 `git push`<br>
 
+## Sync your local disk with fork/upstream repository
+https://help.github.com/en/articles/syncing-a-fork
+
 ## Basic writing and formatting syntax
 https://help.github.com/en/articles/basic-writing-and-formatting-syntax
