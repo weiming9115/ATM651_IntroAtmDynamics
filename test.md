@@ -1,4 +1,4 @@
-| Questions| Answers|
+| Question| Answer|
 |----------|--------|
 |Who's the Prof?|          |
 |Who's the TA?| |          |
