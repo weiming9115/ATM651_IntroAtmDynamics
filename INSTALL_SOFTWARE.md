@@ -6,7 +6,7 @@
 
 ## How to use this repo of Jupyter notebooks in combination with the IDV:
 
-1. install [Jupyter notebooks via the Anaconda package](https://unidata.github.io/python-workshop/installation.html).
+1. install [Jupyter notebooks via the miniconda package](https://unidata.github.io/python-workshop/installation.html).
 
 2. Create a GitHub account.
 
