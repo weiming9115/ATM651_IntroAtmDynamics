@@ -1,6 +1,7 @@
 name: ATM651
 channels:
   - conda-forge
+  - pyviz
   - defaults
 dependencies:
    - python=3
