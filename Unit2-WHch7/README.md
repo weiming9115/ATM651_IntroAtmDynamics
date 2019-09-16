@@ -4,4 +4,4 @@
 
 [Trajectories vs. streamlines animation](https://atmos.uw.edu/~durrand/animations/vort505/vortanim1.html) for a Rankine vortex plus constant U
 
-## Lab exercises are in Notebooks folder 
+#### Lab exercises are in Notebooks folder 
