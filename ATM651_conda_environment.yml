@@ -15,6 +15,9 @@ dependencies:
    - shapely
    - siphon
    - xarray
+   - fastparquet
+   - psutil
+   - fsspec
    - pip
    - ffmpeg
    - pytest
