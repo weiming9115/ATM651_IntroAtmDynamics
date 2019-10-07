@@ -9,8 +9,8 @@
 | 7 | Discuss **graded work so far**. Then discuss assigned **reading: section 7.2.7 (thermal wind; i.e., all material through 7.2.9)**, and **any HW2 questions**; and **elicit student answers (or questions) to 7.5 l-z**  | Collect (midnight) **HW2: [Force-balanced wind](http://profhorn.meteor.wisc.edu/wxwise/kinematics/h5/balance.html) problems 7.19, 7.21, 7.22, 7.24, 7.42; Thermal wind problems 7.5m, 7.11, 7.25, 7.26** Consider project ideas. |
 | 8 | Consider project ideas. **Reading: through 7.3.5. Assemble Primitive Equations.** On that basis, **elicit student answers (or questions) to 7.5 l-z**  | Review (in class) **[Assigned IDV lab ppt.pdf](https://github.com/ATMOcanes/ATM651_IntroAtmDynamics/blob/master/Unit2-WHch7/2019_Warm-coolCore_Vortices_structurelab.pptx) in student forks, due by class time** |
 |9|Rest of Ch. 7|Equation *set* global properties: energy budget|
-|10|Why weather: vertical velocity |(Fall break)|
-|11|Why weather: PV source/sink term; heat budget and diabatic effects |Midlatitude storm (Ch 8): book view & student IDV lab forks|
+|10|Why weather: vertical velocity |Why weather: PV source/sink term; heat budget and diabatic effects |
+|11|Midlatitude storm (Ch 8): book view & student IDV lab forks| | 
 |12|PBL: turbulence & convection (Ch 9)|PBL|
 |13|Dynamical system reasoning|System reasoning: data assimilation|
 |endgame|projects|projects|
