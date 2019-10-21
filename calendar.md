@@ -10,7 +10,9 @@
 | 8 | [Consider project ideas: Wikipedia training](https://dashboard.wikiedu.org/courses/University_of_Miami/Weather_Analysis_(Fall_2019)?enroll=fjsbeacg). **Reading: through 7.3.5.** On that basis, **elicit student answers (or questions) to 7.5 l-z**  | Review (in class) **[Assigned IDV lab ppt.pdf](https://github.com/ATMOcanes/ATM651_IntroAtmDynamics/blob/master/Unit2-WHch7/2019_Warm-coolCore_Vortices_structurelab.pptx) in student forks, due by class time** |
 |9|Rest of Ch. 7, Assemble Primitive Equations. Equation *set* properties: energy budget, role of heating in driving all flow. [What is a model?](http://proj.badc.rl.ac.uk/pimms/browser/CASCADE/ControlledVocabs/trunk/Software?rev=48&order=size) and [the MERRA(2) reanalysis](https://gmao.gsfc.nasa.gov/pubs/docs/Bosilovich785.pdf)? its [variables](https://gmao.gsfc.nasa.gov/products/documents/GEOS-5_Filespec_Glossary.pdf)? the [IAU](https://journals.ametsoc.org/doi/10.1175/MWR-D-18-0117.1)?| **Examine [Assigned IDV lab ppt.pdf](https://github.com/ATMOcanes/ATM651_IntroAtmDynamics/blob/master/Unit2-WHch7/PV_budget_heatingrates_spinupconcept.pptx) responses in student forks, due by class time** | 
 |10|Current wx (great front) & WH midlatitude storm (Ch 8). Assign final WH Ch7 problems.|**Read Ch9.1 and prepare for general verbal Q&A (study question 9.7)**|
-|11|**HW due: WH 7.33-34, 7.35, 7.36, 7.38 & show that it can be expressed as vertical advection of either dry static energy or potential temperature in both z and p coordinates, 7.40 using 7.39, 7.43 & 7.45, 7.44.** Also include **a 1-paragraph project idea [(resources)](https://github.com/ATMOcanes/ATM651_IntroAtmDynamics/blob/master/README.md)**|Lab notebooks | 
+|11|**HW due: WH 7.33-34, 7.35, 7.36, 7.38 & show that it can be expressed as vertical advection of either dry static energy or potential temperature in both z and p coordinates, 7.40 using 7.39, 7.43 & 7.45, 7.44.** Also include **a 1-paragraph project idea [(resources)](https://github.com/ATMOcanes/ATM651_IntroAtmDynamics/blob/master/README.md)**|Lab notebook| 
 |12|PBL: turbulence & convection (Ch 9)|PBL|
-|13|||
-|endgame|projects|projects|
+|13|PBL|PBL lab|
+|14|moist convection|moist convection lab|
+|thanksgiving week|xxx|xxx|
+|Dec|Last class session: review + quiz|10 min presentations Weds Dec 4?|
