@@ -14,6 +14,8 @@ Students will `fork` this `repo` and `clone` it to their machines.
 
 * Do something dynamical with a Jupyter/Python toy model like [these](https://github.com/ATMOcanes/ATM663_convection_meso/tree/master/Resources/Notebooks) or [these]()
 
-* Case study of a [weather event in MERRA2](https://fluid.nccs.nasa.gov/reanalysis/classic_merra2/?one_click=1&tau=15&stream=MERRA2&level=0&region=usa&fcst=19930313&field=ptype), right down to [obs assimilation aspects](http://weather.rsmas.miami.edu/repository/entry/show?entryid=8f4d8443-54ed-419b-a74b-fb0c6ace4daf). To be academic about it, perhaps do budgets for a "case" of large Analysis Tendency (where model physical and dynamical tendencies failed to explain the observed evolution)?
+* Case study of a [weather in MERRA2](https://fluid.nccs.nasa.gov/reanalysis/classic_merra2/?one_click=1&tau=15&stream=MERRA2&level=0&region=usa&fcst=19930313&field=ptype), right down to [obs assimilation aspects](http://weather.rsmas.miami.edu/repository/entry/show?entryid=8f4d8443-54ed-419b-a74b-fb0c6ace4daf) if it is in the available time window. 
 
-* Case study of a climate "event," with monthly mean budgets from MERRA2
+* Othe aspects of MERRA2, inclusing aerosols or so many other things: see all the collections and my instructions on how to open them in IDV or Panoply [here](https://hyp.is/NuATNvQBEemtxQPBlKyywQ/gmao.gsfc.nasa.gov/pubs/docs/Bosilovich785.pdf).
+
+* Case study of a climate timescale "event" with monthly mean fields and/or budgets from MERRA2.
