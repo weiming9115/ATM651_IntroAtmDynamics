@@ -21,3 +21,5 @@ Students will `fork` this `repo` and `clone` it to their machines.
 * Case study of a climate timescale "event" with monthly mean fields and/or budgets from MERRA2.
 
 * Do a computation with a [shallow water equations solver notebook](https://github.com/ATMOcanes/ATM651_IntroAtmDynamics/blob/master/Notebooks/SWEmodel.ipynb)
+
+  * for instance, on downstream development and Rossby wave dispersion (8.33 of Wallace and Hobbs, LMT exercise 1.5, [data](https://www.esrl.noaa.gov/psd/map/time_plot/)
