@@ -19,3 +19,5 @@ Students will `fork` this `repo` and `clone` it to their machines.
 * Othe aspects of MERRA2, inclusing aerosols or so many other things: see all the collections and my instructions on how to open them in IDV or Panoply [here](https://hyp.is/NuATNvQBEemtxQPBlKyywQ/gmao.gsfc.nasa.gov/pubs/docs/Bosilovich785.pdf).
 
 * Case study of a climate timescale "event" with monthly mean fields and/or budgets from MERRA2.
+
+* Do a computation with a [shallow water equations solver notebook](https://github.com/ATMOcanes/ATM651_IntroAtmDynamics/blob/master/Notebooks/SWEmodel.ipynb)
