@@ -22,4 +22,4 @@ Students will `fork` this `repo` and `clone` it to their machines.
 
 * Do a computation with a [shallow water equations solver notebook](https://github.com/ATMOcanes/ATM651_IntroAtmDynamics/blob/master/Notebooks/SWEmodel.ipynb)
 
-  * for instance, on downstream development and Rossby wave dispersion (8.33 of Wallace and Hobbs, LMT exercise 1.5, [data](https://www.esrl.noaa.gov/psd/map/time_plot/)
+  * for instance, on downstream development and Rossby wave dispersion (8.33 of Wallace and Hobbs, LMT exercise 1.5, make your own [time-longitude plots from data](https://www.esrl.noaa.gov/psd/map/time_plot/)
