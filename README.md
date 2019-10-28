@@ -6,6 +6,8 @@ Students will `fork` this `repo` and `clone` it to their machines.
 
 ### Some project resources 
 
+* Do a literature study of some topic. Parse at least 3 papers (perhaps a recent one, an early one, and a most highly cited one). You can find these with forward and backward literature citation indices in [Web of Science](http://apps.webofknowledge.com.access.library.miami.edu) or [Scopus](https://www-scopus-com.access.library.miami.edu) through [the UM library](https://www.library.miami.edu). 
+
 * [Mapes IDV collection - browse it](https://weather.rsmas.miami.edu/repository/entry/show?entryid=115a4ff0-10de-4fba-86d7-66cd42d6d8de)
 
 * [New: trajectories in IDV](https://ams.confex.com/ams/98Annual/webprogram/Paper337280.html) see [3-mintue YouTube](https://www.youtube.com/watch?v=m0DwH--5GP8)
@@ -23,3 +25,5 @@ Students will `fork` this `repo` and `clone` it to their machines.
 * Do a computation with a [shallow water equations solver notebook](https://github.com/ATMOcanes/ATM651_IntroAtmDynamics/blob/master/Notebooks/SWEmodel.ipynb)
 
   * for instance, on downstream development and Rossby wave dispersion (8.33 of Wallace and Hobbs, LMT exercise 1.5, make your own [time-longitude plots from data](https://www.esrl.noaa.gov/psd/map/time_plot/)
+  
+
