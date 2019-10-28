@@ -6,7 +6,7 @@ Students will `fork` this `repo` and `clone` it to their machines.
 
 ### Some project resources 
 
-* Do a literature study of some topic. Parse at least 3 papers (perhaps a recent one, an early one, and a most highly cited one). You can find these with forward and backward literature citation indices in [Web of Science](http://apps.webofknowledge.com.access.library.miami.edu) or [Scopus](https://www-scopus-com.access.library.miami.edu) through [the UM library](https://www.library.miami.edu). 
+* Do a literature study of some topic or question. Parse at least 3 papers (perhaps a recent one, an early one, and a most highly cited one), and triangulate among these to come to your own view. Forward and backward citations can be studied in [Web of Science](http://apps.webofknowledge.com.access.library.miami.edu) or [Scopus](https://www-scopus-com.access.library.miami.edu) through [the UM library](https://www.library.miami.edu). For annotating papers online, I like [hypothes.is](http://hypothes.is).
 
 * [Mapes IDV collection - browse it](https://weather.rsmas.miami.edu/repository/entry/show?entryid=115a4ff0-10de-4fba-86d7-66cd42d6d8de)
 
